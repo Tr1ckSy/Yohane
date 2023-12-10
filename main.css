@@ -1,3 +1,8 @@
+
+.bg-grid {
+	background-image: url('https://raw.githubusercontent.com/Tr1ckSy/Yohane/main/assets/bg-grid.png');
+    background-size: 100px;
+}
 .ctlz {
 	display: flex;
 	align-items: center;
