@@ -1,4 +1,4 @@
 # Yohane
 Framework feito pra alto me ajuda
 
-cdn:https://cdn.jsdelivr.net/gh/Tr1ckSy/Yohane@main/main.css
+	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/Tr1ckSy/Yohane@main/main.css">
